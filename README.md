@@ -35,3 +35,9 @@ Agriculture is a key contributor to the economy, and accurately predicting crop 
 # 3. Task: 
 - Predicting Production (Production, measured in tons):
 - Use Case: Focuses on total output. It answers, "What will the total production of a specific crop be for a given region and year?"
+# Expected Results: 
+- Analyze Trends: Gain insights into crop production trends by region, crop type, and year.
+- Predictive Modeling: Develop models to predict crop yield or production for informed decision-making.
+- Actionable Insights: Provide recommendations for resource allocation and agricultural planning. 
+- Develop a streamlit application to showcase the predicted value based on selected features.
+
